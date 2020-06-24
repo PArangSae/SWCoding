@@ -8,7 +8,7 @@
 
 - 컴퓨터와 로봇 연결하기
   - BLE 동글을 컴퓨터에 연결하면 로봇과 컴퓨터가 통신을 할 수 있는 준비상태가 됩니다.
-  - [BLE USB 동글 연결하기](https://github.com/albertailabs/BleDongle)
+  - [BLE 동글 드라이버 다운로드](https://github.com/albertailabs/BleDongle)
   
 - 컴퓨터에 코딩 프로그램 설치하기
   - 알버트 코딩 SW를 설치하면 스크래치와 엔트리, 플레이봇, 자바스크립트를 사용할 수 있습니다.
